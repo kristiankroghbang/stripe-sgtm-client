@@ -6,7 +6,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Stripe Purchase Client",
-  "description": "Receives a POST with Stripe session_id + browser cookies from a thank-you page, calls Stripe Checkout Sessions API, builds a full GA4-compatible purchase event with ecommerce, user data, and session stitching. Developed by Kristian Krogh Bang.",
+  "description": "Calls Stripe API server-side, builds a GA4 purchase event with ecommerce, user data, session stitching, and cookies. By Kristian Krogh Bang.",
   "containerContexts": [
     "SERVER"
   ]
