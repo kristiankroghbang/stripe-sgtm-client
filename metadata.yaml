@@ -1,5 +1,5 @@
 homepage: "https://kristiankroghbang.com"
 documentation: "https://github.com/kristiankroghbang/stripe-sgtm-client#setup"
 versions:
-  - sha: HEAD
+  - sha: 9dbf14f627630e34be6779915bc838e76e4ca92a
     changeNotes: "Initial release - Stripe Checkout purchase tracking for sGTM with full GA4 ecommerce, user data, session stitching, and 30+ ad platform cookies."
